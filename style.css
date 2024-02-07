@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    background-color: aqua;
+}
+.container{
+    width: 1000px;
+    height: auto;
+    background-color: bisque;
+    margin: auto;
+}
+.logo{
+    float: left;
+}
+.search{
+    float: right;
+}
